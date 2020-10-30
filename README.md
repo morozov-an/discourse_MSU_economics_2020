@@ -8,7 +8,7 @@ This repository contains original data and main results obtained due research on
 - We use authors and references information to construct a network of authors, showing who cited who;
 - After some data cleaning, we employ the Girvan-Newman algorithm to find clusters in the network structure.
 
-As we guess this clusters could show us the discourse structure of contemporary economic science. In the center we could see big main structure, which connects a vast of authors (and papers). Bu there are many authors on a periphery, who is not connected to main structure.
+As we guess this clusters could show us the discourse structure of contemporary economic science. In the center we could see big main structure, which connects a vast of authors (and papers). But there are many authors on a periphery, who is not connected to main structure.
 
 From our primary Scopus dataset we get abstracts, titles and keywords of papers of authors presented in top 10 largest clusters in main sector and 3 big enough clusters from the periphery. This way we constructed 13 text corpora for every selected cluster. We employ "bag-of-words" model and create term-document matrix, weighted by tf-idf method. Weighted frequencies obtained where used to create word-clouds for every cluster.
 
