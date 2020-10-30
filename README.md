@@ -1,4 +1,4 @@
-# How many discourses in contemporary economics?
+# How many discourses in contemporary economics? Covid-crisis case
 ![Economics Discourses](network/big_edge_between_promo.png?raw=true "Economics Discourses")
 This repository contains original data and main results obtained due research on economics discourse structure. Department of Economics, Lomonosov MSU. 2020
 
