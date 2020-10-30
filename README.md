@@ -18,4 +18,9 @@ Result is ambiguous.
 \[Description is under construction\]
 
 Here is full network. Diffirent clusters shown as different colours:
+
 ![Full Graph](network/big_edge_between.png?raw=true "Full Graph")
+
+More:
+
+[Wordclouds of different clusters](wordcloud/readme.md)
