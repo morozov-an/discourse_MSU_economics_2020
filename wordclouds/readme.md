@@ -111,7 +111,7 @@ Wilkinson A.
 ![Cluster 8 wordcloud](wc8a.png 'Wordcloud for cluster 8')
 
 - Informal employment, undeclared work due to Covid-19
-- Europe
+- Europe, Africa
 
 ## Cluster 9 (cyan in the top-right*)
 <sup>* occasionally color of this cluster is the same as cluster 4 and they placed near each other; see the authors list to distinguish it on plot</sup>
