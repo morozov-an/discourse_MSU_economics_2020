@@ -23,4 +23,4 @@ Here is full network. Diffirent clusters shown as different colours:
 
 More:
 
-[Wordclouds of different clusters](wordcloud/readme.md)
+[Wordclouds of different clusters](wordclouds/readme.md)
