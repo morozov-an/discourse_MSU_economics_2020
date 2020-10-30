@@ -1,4 +1,5 @@
 # How many discourses in contemporary economics?
+![Economics Discourses](network/big_edge_between_promo.png?raw=true "Economics Discourses")
 This repository contains original data and main results obtained due research on economics discourse structure. Department of Economics, Lomonosov MSU. 2020
 
 - Discourse is an embedded field of science, where researchers agree with each other and do the same;
@@ -15,3 +16,6 @@ From our primary Scopus dataset we get abstracts, titles and keywords of papers 
 Result is ambiguous.
 
 \[Description is under construction\]
+
+Here is full network. Diffirent clusters shown as different colours:
+![Full Graph](network/big_edge_between.png?raw=true "Full Graph")
