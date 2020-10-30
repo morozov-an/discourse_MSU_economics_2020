@@ -11,7 +11,6 @@ Chakraborty S.; Zhang H.
 ![Cluster 1 wordcloud](wc1a.png 'Wordcloud for cluster 1')
 
 - Medicine (not economics)
-- Health economics
 
 ## Cluster 2 (light-purple in the bottom-right)
 Bhattacharya J.
