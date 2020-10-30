@@ -17,7 +17,7 @@ Result is ambiguous.
 
 \[Description is under construction\]
 
-Here is full network. Diffirent clusters shown as different colours:
+Here is full network (click to enlarge). Diffirent clusters shown as different colours:
 
 ![Full Graph](network/big_edge_between.png?raw=true "Full Graph")
 
