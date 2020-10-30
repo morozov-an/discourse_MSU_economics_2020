@@ -114,7 +114,7 @@ Wilkinson A.
 - Europe
 
 ## Cluster 9 (cyan in the top-right*)
-<sup>* occasionally color of this cluster is the same as cluster 2 and they placed near each other; see the authors list to distinguish it on plot</sup>
+<sup>* occasionally color of this cluster is the same as cluster 4 and they placed near each other; see the authors list to distinguish it on plot</sup>
 
 Dosi G.
 
